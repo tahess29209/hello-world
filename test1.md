@@ -1,6 +1,8 @@
-New markdown file
+#New markdown file
 
-*test
+#test
+
+**Item
 
 1. Test
 2. another test
